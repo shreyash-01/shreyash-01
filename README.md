@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=👋🏻Hi,++I'm+Shreyash&height=230&section=header"/>
 </p>
 
 
@@ -18,7 +18,7 @@
   </a>
 </div>
 
-<h3 align="center">Other Socials:</h3>
+<h3 align="center">Other:</h3>
 <p align="center">
 <a href="https://www.codechef.com/users/shreyash60" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shreyash60" height="50" width="70" /></a>
 <a href="https://www.hackerrank.com/shreyash_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shreyash_01" height="50" width="70" /></a>
