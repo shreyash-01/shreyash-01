@@ -2,11 +2,16 @@
   <img src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" width="250"/>
 </div>
 
+<h3 align="center">Connect with me:</h3>
+
 
 
 <div id="header" align="center">
   <a href="https://www.linkedin.com/in/shreyash-856044220/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://instagram.com/shrexyash.s/">
+    <img src="https://img.shields.io/badge/-Instagram-ff69b4?style=for-the-badge&logo=Instagram&logoColor=white" alt="StackOveflow Badge"/>
   </a>
   <a href="https://stackoverflow.com/users/16094884/shreyash-singh/">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOveflow Badge"/>
