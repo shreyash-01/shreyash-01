@@ -18,29 +18,26 @@
   </a>
 </div>
 
-<h3 align="center">Other:</h3>
-<p align="center">
-<a href="https://www.codechef.com/users/shreyash60" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shreyash60" height="50" width="70" /></a>
-<a href="https://www.hackerrank.com/shreyash_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shreyash_01" height="50" width="70" /></a>
-<a href="https://www.leetcode.com/shreyash-007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyash-007" height="50" width="70" /></a>
-<a href="https://stackoverflow.com/users/16094884" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16094884" height="50" width="70" /></a>
-</p>
 
-
-
-
-
-
-
-
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages:
 <div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original-wordmark.svg" width="70" height="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" width="70" height="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="70" height="70"/>
+  
+  
+  
+</div>
+### :hammer_and_wrench: Tools :
+<div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" width="80" height="80"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" width="70" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="70" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" width="70" height="70"/>
+
+
 </div>
 
