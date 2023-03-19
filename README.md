@@ -18,6 +18,16 @@
   </a>
 </div>
 
+# About Me
+
+<div>
+
+- I'm a student pursuing a degree in Information Science and Engineering who's passionate about **mobile apps**:iphone:.
+- :computer: Currently learning about **Android**(*Java and Kotlin*) and **cross platform**(*flutter*) development.
+- Outside the tech world, I'm a fitness freak. I love hitting the **gym**:muscle: and playing **sports**:basketball: every single day.
+
+</div>
+
 
 ### :page_with_curl: Languages:
 <div>
@@ -25,6 +35,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" width="70" height="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" width="65" height="65"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain-wordmark.svg" width="80" height="80"/>
+
+  
   
 </div>
 
@@ -37,8 +50,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="65" height="65"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" width="70" height="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="70" height="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg
-" width="80" height="80"/>
+
 
 
 
