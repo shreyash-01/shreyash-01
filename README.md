@@ -51,12 +51,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" width="70" height="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="70" height="70"/>
 </div>
-<div>
+
 [![Shreyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyash-01)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash-01)](https://github.com/anuraghazra/github-readme-stats)
 
-<div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash-01)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
