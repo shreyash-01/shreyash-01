@@ -23,7 +23,7 @@
 <div>
 
 - I'm a student pursuing a degree in Information Science and Engineering who's passionate about **mobile apps**:iphone:.
-- :computer: Currently learning about **Android**(*Java and Kotlin*) and **cross platform**(*flutter*) development.
+- :computer: Currently learning about **Android**(*Java and Kotlin*) and **cross platform**(*flutter*) development. I'm also learning about cloud technologies devops tools.
 - Outside the tech world, I'm a fitness freak. I love hitting the **gym**:muscle: and playing **sports**:basketball:.
 
 </div>
