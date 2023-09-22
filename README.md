@@ -23,7 +23,9 @@
 <div>
 
 - I'm a student pursuing a degree in Information Science and Engineering who's passionate about **mobile apps**:iphone:.
-- :computer: Currently learning about **Android**(*Java and Kotlin*) and **cross platform**(*flutter*) development. I'm also learning about cloud technologies and devops tools.
+- :computer: Currently learning about **Android**(*Java and Kotlin*) and Backend Development. I'm also learning about cloud and Devops technologies.
+- An Open Source enthusiast who believes in the power of collaboration and transparency to drive innovation and progress.
+- I have a diverse skill set consisting of several programming languages and tools, which allows me to tackle a wide range of software development challenges effectively.
 - Outside the tech world, I'm a fitness freak. I love hitting the **gym**:muscle: and playing **sports**:basketball:.
 
 </div>
