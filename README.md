@@ -59,4 +59,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash-01)](https://github.com/anuraghazra/github-readme-stats)
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6541d9e54352f418f8015f6a?variant=dark)](https://roadmap.sh)
+
 
