@@ -22,7 +22,7 @@
 
 <div>
 
-- I'm a student pursuing a degree in Information Science and Engineering who's passionate about *Backend development**. I am proficient in Spring and Spring Boot Framework.
+- I'm a student pursuing a degree in Information Science and Engineering who's passionate about *Backend development*. I am proficient in Spring and Spring Boot Framework.
 - I'm good at developing Rest API and working with databases.
 - :computer: Currently learning **AWS** and **Kuberntes**. I'm also learning about Bash Scripting and Linux Administration.
 - An Open Source enthusiast who believes in the power of collaboration and transparency to drive innovation and progress.
